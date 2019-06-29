@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>انجمن علوم‌کامپیوتر دانشگاه کاشان</title>
+    <link>https://kucssa.ir/author/john-doe/</link>
+    <description>Recent content on انجمن علوم‌کامپیوتر دانشگاه کاشان</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa</language>
+    
+	<atom:link href="https://kucssa.ir/author/john-doe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

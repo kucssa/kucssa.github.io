@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on انجمن علوم‌کامپیوتر دانشگاه کاشان</title>
+    <link>https://kucssa.ir/blog/</link>
+    <description>Recent content in Blogs on انجمن علوم‌کامپیوتر دانشگاه کاشان</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa</language>
+    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0330</lastBuildDate>
+    
+	<atom:link href="https://kucssa.ir/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>جشن اوبونتوی دانشگاه کاشان</title>
+      <link>https://kucssa.ir/blog/ufest1904/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0330</pubDate>
+      
+      <guid>https://kucssa.ir/blog/ufest1904/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>جشنواره‌ی حرکت دانشگاه کاشان</title>
+      <link>https://kucssa.ir/blog/harekat/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0330</pubDate>
+      
+      <guid>https://kucssa.ir/blog/harekat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
